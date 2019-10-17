@@ -109,5 +109,5 @@ for more information.
 [run_deploy]: https://cloud.google.com/run/docs/deploying
 [helloworld]: https://github.com/knative/docs/tree/master/docs/serving/samples/hello-world/helloworld-nodejs
 [manual_logging]: logging-manual/
-[run_button_helloworld]: https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/knative/docs&cloudshell_working_dir=docs/serving/samples/hello-world/helloworld-nodejs
-[run_button_manual_logging]: https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/GoogleCloudPlatform/nodejs-docs-samples&cloudshell_working_dir=run/logging-manual
+[run_button_helloworld]: https://deploy.cloud.run/?git_repo=https://github.com/knative/docs&dir=docs/serving/samples/hello-world/helloworld-nodejs
+[run_button_manual_logging]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/nodejs-docs-samples&dir=run/logging-manual
